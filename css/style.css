@@ -318,7 +318,7 @@ section {
 }
 
 .img-col1 .img-col1-img1 {
-	background: url(images/virat1.jpg) no-repeat;
+	background: url(../images/virat1.jpg) no-repeat;
 	background-size: cover;
 	height: 110vh;
 	max-height: 880px;
@@ -328,7 +328,7 @@ section {
 }
 
 .img-col1 .img-col1-img2 {
-	background: url(images/virat2.jpg) no-repeat;
+	background: url(../images/virat2.jpg) no-repeat;
 	background-size: cover;
 	height: 90vh;
 	max-height: 700px;
@@ -375,7 +375,7 @@ section {
 }
 
 .img-col2 .img-col2-img1 {
-	background: url(images/virat3.jpg) no-repeat;
+	background: url(../images/virat3.jpg) no-repeat;
 	background-size: cover;
 	height: 100vh;	
 	max-height: 780px;
@@ -384,7 +384,7 @@ section {
 }
 
 .img-col2 .img-col2-img2 {
-	background: url(images/virat4.jpg) no-repeat;
+	background: url(../images/virat4.jpg) no-repeat;
 	background-size: cover;
 	height: 60vh;
 	max-height: 480px;
@@ -449,7 +449,7 @@ section {
 }
 
 .sec2-col1-img1 {
-	background: url('images/a1.jpg') no-repeat;
+	background: url('../images/a1.jpg') no-repeat;
 	background-size: cover;
 	background-position: center 35%;
 	height: 45vh;
@@ -458,7 +458,7 @@ section {
 	margin: 1.4em 0.7em 0.7em;
 }
 .sec2-col1-img2 {
-	background:url("images/a2.jpg") no-repeat center;
+	background:url("../images/a2.jpg") no-repeat center;
 	background-size: cover;
 	height: 65vh;
 	max-height: 500px;
@@ -473,7 +473,7 @@ section {
 }
 
 .sec2-col2-img {
-	background:url("images/a3.jpg") no-repeat center;
+	background:url("../images/a3.jpg") no-repeat center;
 	background-size: cover;
 	height: 65vh;
 	max-height: 500px;
@@ -509,7 +509,7 @@ section {
 }
 
 .sec3-col-banner {
-	background:url("images/top-bannerv2_grey.jpg") no-repeat center;
+	background:url("../images/top-bannerv2_grey.jpg") no-repeat center;
 	background-size: cover;
 	width: 100%;
 	height: 100%;
@@ -604,7 +604,7 @@ section {
 }
 
 .sec4-col2-img {	
-	background:url("images/a5.jpg") no-repeat center;
+	background:url("../images/a5.jpg") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
